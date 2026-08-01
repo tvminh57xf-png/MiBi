@@ -1,0 +1,12 @@
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\bin\Debug\net8.0\MiBi.Domain.deps.json
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\bin\Debug\net8.0\MiBi.Domain.dll
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\bin\Debug\net8.0\MiBi.Domain.pdb
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.AssemblyInfoInputs.cache
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.AssemblyInfo.cs
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.csproj.CoreCompileInputs.cache
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.sourcelink.json
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.dll
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\refint\MiBi.Domain.dll
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\MiBi.Domain.pdb
+D:\ONEDRIVE\SETUP\0.MT_PHAN_MEM\AcadTools_Structure\MiBi\src\MiBi.Domain\obj\Debug\net8.0\ref\MiBi.Domain.dll
