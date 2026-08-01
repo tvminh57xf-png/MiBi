@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/MiBi.Domain/MiBi.Domain.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MiBi.Domain.Tests/MiBi.Domain.Tests.csproj" />
+  </Folder>
 </Solution>
